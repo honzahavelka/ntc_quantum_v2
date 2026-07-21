@@ -1,0 +1,15 @@
+=========================================================
+ EXPERIMENT REPORT: exp_d_diag_corners_4x4
+=========================================================
+Backend Used       : ibm_marrakesh
+Total Shots Sent   : 100000
+Successful Shots   : 19088 (Ancillas measured |0...0>)
+Success Rate       : 19.09 %
+
+--- Probability Distribution Comparison ---
+State      | Measured Prob   | Analytical Prob | Diff (%)   | Raw Counts
+------------------------------------------------------------------------------
+|00⟩       | 0.3639          | 0.6207          | 25.67      | 6947
+|01⟩       | 0.2129          | 0.1552          | 5.77       | 4063
+|10⟩       | 0.1416          | 0.0690          | 7.26       | 2702
+|11⟩       | 0.2816          | 0.1552          | 12.65      | 5376

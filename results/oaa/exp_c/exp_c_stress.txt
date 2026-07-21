@@ -1,0 +1,419 @@
+=== OAA EXPERIMENT SUMMARY (20260720_153840) ===
+Tento soubor obsahuje sloučená data pro všechny iterace k.
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 0
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        1.81°
+Mathematical Probability: 0.10 % (Success)
+Measured Probability:     1.03 %
+Absolute Error:           0.93 %
+Raw Counts:               {'1': 2027, '0': 21}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 1
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        5.44°
+Mathematical Probability: 0.90 % (Success)
+Measured Probability:     1.37 %
+Absolute Error:           0.47 %
+Raw Counts:               {'1': 2020, '0': 28}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 2
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        9.06°
+Mathematical Probability: 2.48 % (Success)
+Measured Probability:     3.76 %
+Absolute Error:           1.28 %
+Raw Counts:               {'0': 77, '1': 1971}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 3
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        12.69°
+Mathematical Probability: 4.82 % (Success)
+Measured Probability:     6.15 %
+Absolute Error:           1.33 %
+Raw Counts:               {'1': 1922, '0': 126}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 4
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        16.31°
+Mathematical Probability: 7.89 % (Success)
+Measured Probability:     8.69 %
+Absolute Error:           0.81 %
+Raw Counts:               {'1': 1870, '0': 178}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 5
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        19.93°
+Mathematical Probability: 11.62 % (Success)
+Measured Probability:     14.36 %
+Absolute Error:           2.73 %
+Raw Counts:               {'1': 1754, '0': 294}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 6
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        23.56°
+Mathematical Probability: 15.97 % (Success)
+Measured Probability:     18.51 %
+Absolute Error:           2.53 %
+Raw Counts:               {'1': 1669, '0': 379}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 7
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        27.18°
+Mathematical Probability: 20.87 % (Success)
+Measured Probability:     22.27 %
+Absolute Error:           1.40 %
+Raw Counts:               {'1': 1592, '0': 456}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 8
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        30.81°
+Mathematical Probability: 26.23 % (Success)
+Measured Probability:     26.32 %
+Absolute Error:           0.09 %
+Raw Counts:               {'0': 539, '1': 1509}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 9
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        34.43°
+Mathematical Probability: 31.97 % (Success)
+Measured Probability:     28.86 %
+Absolute Error:           3.11 %
+Raw Counts:               {'0': 591, '1': 1457}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 10
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        38.06°
+Mathematical Probability: 38.00 % (Success)
+Measured Probability:     39.65 %
+Absolute Error:           1.65 %
+Raw Counts:               {'1': 1236, '0': 812}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 11
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        41.68°
+Mathematical Probability: 44.22 % (Success)
+Measured Probability:     44.68 %
+Absolute Error:           0.46 %
+Raw Counts:               {'0': 915, '1': 1133}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 12
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        45.30°
+Mathematical Probability: 50.53 % (Success)
+Measured Probability:     50.83 %
+Absolute Error:           0.30 %
+Raw Counts:               {'1': 1007, '0': 1041}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 13
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        48.93°
+Mathematical Probability: 56.83 % (Success)
+Measured Probability:     55.22 %
+Absolute Error:           1.61 %
+Raw Counts:               {'1': 917, '0': 1131}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 14
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        52.55°
+Mathematical Probability: 63.03 % (Success)
+Measured Probability:     61.04 %
+Absolute Error:           1.99 %
+Raw Counts:               {'0': 1250, '1': 798}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 15
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        56.18°
+Mathematical Probability: 69.02 % (Success)
+Measured Probability:     66.75 %
+Absolute Error:           2.27 %
+Raw Counts:               {'0': 1367, '1': 681}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 16
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        59.80°
+Mathematical Probability: 74.70 % (Success)
+Measured Probability:     72.66 %
+Absolute Error:           2.04 %
+Raw Counts:               {'0': 1488, '1': 560}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 17
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        63.43°
+Mathematical Probability: 79.99 % (Success)
+Measured Probability:     77.15 %
+Absolute Error:           2.84 %
+Raw Counts:               {'0': 1580, '1': 468}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 18
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        67.05°
+Mathematical Probability: 84.80 % (Success)
+Measured Probability:     83.30 %
+Absolute Error:           1.49 %
+Raw Counts:               {'0': 1706, '1': 342}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 19
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        70.67°
+Mathematical Probability: 89.05 % (Success)
+Measured Probability:     86.04 %
+Absolute Error:           3.01 %
+Raw Counts:               {'0': 1762, '1': 286}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 20
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        74.30°
+Mathematical Probability: 92.68 % (Success)
+Measured Probability:     89.06 %
+Absolute Error:           3.61 %
+Raw Counts:               {'0': 1824, '1': 224}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 21
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        77.92°
+Mathematical Probability: 95.62 % (Success)
+Measured Probability:     91.21 %
+Absolute Error:           4.41 %
+Raw Counts:               {'0': 1868, '1': 180}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 22
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        81.55°
+Mathematical Probability: 97.84 % (Success)
+Measured Probability:     94.34 %
+Absolute Error:           3.50 %
+Raw Counts:               {'0': 1932, '1': 116}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 23
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        85.17°
+Mathematical Probability: 99.29 % (Success)
+Measured Probability:     96.19 %
+Absolute Error:           3.10 %
+Raw Counts:               {'1': 78, '0': 1970}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 24
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        88.80°
+Mathematical Probability: 99.96 % (Success)
+Measured Probability:     95.90 %
+Absolute Error:           4.06 %
+Raw Counts:               {'0': 1964, '1': 84}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 25
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   0.10 %
+Optimal Iterations:    24
+
+[RESULTS & METRICS]
+Theoretical Angle:        92.42°
+Mathematical Probability: 99.82 % (Success)
+Measured Probability:     96.19 %
+Absolute Error:           3.63 %
+Raw Counts:               {'0': 1970, '1': 78}
+

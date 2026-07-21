@@ -1,0 +1,6 @@
+k,target_prob,measured_success_prob,backend
+0,0.05,0.05322265625,aer_simulator
+1,0.05,0.39208984375,aer_simulator
+2,0.05,0.81396484375,aer_simulator
+3,0.05,1.0,aer_simulator
+4,0.05,0.8076171875,aer_simulator

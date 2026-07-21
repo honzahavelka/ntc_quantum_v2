@@ -1,0 +1,6 @@
+k,target_prob,measured_success_prob,backend
+0,0.05,0.0615234375,ibm_fez
+1,0.05,0.40234375,ibm_fez
+2,0.05,0.82958984375,ibm_fez
+3,0.05,0.99755859375,ibm_fez
+4,0.05,0.8212890625,ibm_fez

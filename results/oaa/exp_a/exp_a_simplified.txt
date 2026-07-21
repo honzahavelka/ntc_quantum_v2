@@ -1,0 +1,83 @@
+=== OAA EXPERIMENT SUMMARY (20260720_153753) ===
+Tento soubor obsahuje sloučená data pro všechny iterace k.
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 0
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        12.92°
+Mathematical Probability: 5.00 % (Success)
+Measured Probability:     6.15 %
+Absolute Error:           1.15 %
+Raw Counts:               {'1': 1922, '0': 126}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 1
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        38.76°
+Mathematical Probability: 39.20 % (Success)
+Measured Probability:     40.23 %
+Absolute Error:           1.03 %
+Raw Counts:               {'1': 1224, '0': 824}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 2
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        64.60°
+Mathematical Probability: 81.61 % (Success)
+Measured Probability:     82.96 %
+Absolute Error:           1.35 %
+Raw Counts:               {'0': 1699, '1': 349}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 3
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        90.45°
+Mathematical Probability: 99.99 % (Success)
+Measured Probability:     99.76 %
+Absolute Error:           0.24 %
+Raw Counts:               {'0': 2043, '1': 5}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 4
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          ibm_fez
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        116.29°
+Mathematical Probability: 80.38 % (Success)
+Measured Probability:     82.13 %
+Absolute Error:           1.74 %
+Raw Counts:               {'1': 366, '0': 1682}
+

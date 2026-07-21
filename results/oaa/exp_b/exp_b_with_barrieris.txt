@@ -1,0 +1,83 @@
+=== OAA EXPERIMENT SUMMARY (20260720_154401) ===
+Tento soubor obsahuje sloučená data pro všechny iterace k.
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 0
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          aer_simulator
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        12.92°
+Mathematical Probability: 5.00 % (Success)
+Measured Probability:     5.32 %
+Absolute Error:           0.32 %
+Raw Counts:               {'1': 1939, '0': 109}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 1
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          aer_simulator
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        38.76°
+Mathematical Probability: 39.20 % (Success)
+Measured Probability:     39.21 %
+Absolute Error:           0.01 %
+Raw Counts:               {'1': 1245, '0': 803}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 2
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          aer_simulator
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        64.60°
+Mathematical Probability: 81.61 % (Success)
+Measured Probability:     81.40 %
+Absolute Error:           0.21 %
+Raw Counts:               {'0': 1667, '1': 381}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 3
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          aer_simulator
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        90.45°
+Mathematical Probability: 99.99 % (Success)
+Measured Probability:     100.00 %
+Absolute Error:           0.01 %
+Raw Counts:               {'0': 2048}
+
+============================================================
+OAA EXPERIMENT REPORT - Iteration k = 4
+============================================================
+[HARDWARE & PARAMETERS]
+Backend used:          aer_simulator
+Shots:                 2048
+Target Initial Prob:   5.00 %
+Optimal Iterations:    3
+
+[RESULTS & METRICS]
+Theoretical Angle:        116.29°
+Mathematical Probability: 80.38 % (Success)
+Measured Probability:     80.76 %
+Absolute Error:           0.38 %
+Raw Counts:               {'0': 1654, '1': 394}
+
