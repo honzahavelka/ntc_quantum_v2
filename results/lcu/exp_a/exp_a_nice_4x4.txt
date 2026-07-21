@@ -1,0 +1,15 @@
+=========================================================
+ EXPERIMENT REPORT: exp_a_nice_4x4
+=========================================================
+Backend Used       : ibm_miami
+Total Shots Sent   : 100000
+Successful Shots   : 58945 (Ancillas measured |0...0>)
+Success Rate       : 58.95 %
+
+--- Probability Distribution Comparison ---
+State      | Measured Prob   | Analytical Prob | Diff (%)   | Raw Counts
+------------------------------------------------------------------------------
+|00⟩       | 0.3221          | 0.3676          | 4.56       | 18986
+|01⟩       | 0.1459          | 0.1324          | 1.36       | 8603
+|10⟩       | 0.1569          | 0.1324          | 2.46       | 9251
+|11⟩       | 0.3750          | 0.3676          | 0.74       | 22105

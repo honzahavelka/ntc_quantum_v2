@@ -1,0 +1,15 @@
+=========================================================
+ EXPERIMENT REPORT: exp_b_hard_4x4
+=========================================================
+Backend Used       : ibm_fez
+Total Shots Sent   : 100000
+Successful Shots   : 5612 (Ancillas measured |0...0>)
+Success Rate       : 5.61 %
+
+--- Probability Distribution Comparison ---
+State      | Measured Prob   | Analytical Prob | Diff (%)   | Raw Counts
+------------------------------------------------------------------------------
+|00⟩       | 0.2951          | 0.0114          | 28.37      | 1656
+|01⟩       | 0.2548          | 0.1357          | 11.91      | 1430
+|10⟩       | 0.2491          | 0.8086          | 55.95      | 1398
+|11⟩       | 0.2010          | 0.0444          | 15.66      | 1128

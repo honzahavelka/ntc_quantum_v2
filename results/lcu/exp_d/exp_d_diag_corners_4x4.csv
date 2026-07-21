@@ -1,0 +1,5 @@
+Experiment,Target_State,Analytical_Prob,Hardware_Prob,Measured_Counts,Total_Successes,Total_Shots,Backend_Used
+exp_d_diag_corners_4x4,00,0.6206896551724137,0.3639459346186085,6947,19088,100000,ibm_marrakesh
+exp_d_diag_corners_4x4,01,0.15517241379310343,0.21285624476110646,4063,19088,100000,ibm_marrakesh
+exp_d_diag_corners_4x4,10,0.0689655172413793,0.14155490360435877,2702,19088,100000,ibm_marrakesh
+exp_d_diag_corners_4x4,11,0.15517241379310343,0.28164291701592625,5376,19088,100000,ibm_marrakesh
